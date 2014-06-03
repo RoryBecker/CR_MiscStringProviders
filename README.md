@@ -27,6 +27,6 @@ In this case text emitted within the ID of the ASP.Net button will have the it's
 
 Thus if I invoke the templates and type "**Hello World**" the emitted text will be 
 
-<asp:Button ID="cmd**HelloWorld**" runat="server" Text="**Hello World**" />
+	<asp:Button ID="cmdHelloWorld" runat="server" Text="Hello World" />
 
 Note the absence of a space within the ID attribute.
