@@ -3,7 +3,7 @@
   <Identifier Id="CR_MiscStringProviders">
     <Name>MiscStringProviders for CodeRush</Name>
     <Author>Roy Becker</Author>
-    <Version>1.0</Version>
+    <Version>1.1</Version>
     <Description xml:space="preserve">As Title: A few string providers for CodeRush. Includes 'RemoveSpaces'</Description>
     <Locale>1033</Locale>
     <Icon>CR-Plug-in.png</Icon>
